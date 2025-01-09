@@ -1,4 +1,5 @@
 **Resume Parser Using Python**
+
 This project offers a powerful and versatile resume parsing tool designed to streamline the extraction of key information from resumes. With two distinct methods—one using regular expressions and the other leveraging SpaCy's advanced natural language processing (NLP) capabilities—you can choose the approach that best fits your needs.
 
 🚀 Features
